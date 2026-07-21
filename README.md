@@ -33,4 +33,4 @@ daily-wellness-tracker/
 ````
 
 ## Output
-![Daily Wellness Tracker](images/wellness_tracker.png)
+![Daily Wellness Tracker](images/wellness tracker.png)
